@@ -2,6 +2,7 @@
 
 ## 📌 Objective
 This project focuses on applying the Random Forest algorithm to predict whether a tumor is malignant or benign.
+Model built using Random Forest Classifier with feature importance analysis.
 
 ## 📊 Dataset
 - Breast Cancer Dataset (UCI / Kaggle)
